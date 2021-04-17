@@ -1,0 +1,31 @@
+{
+  "name": "Batcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "solc": "^0.6.12",
+    "truffle": "^5.1.58",
+    "truffle-flattener": "^1.5.0",
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "truffle-plugin-verify": "^0.5.7",
+    "web3": "^1.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasketsFinance/Batcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasketsFinance/Batcher/issues"
+  },
+  "homepage": "https://github.com/BasketsFinance/Batcher#readme"
+}
